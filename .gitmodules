@@ -1,3 +1,21 @@
 [submodule "SH00"]
 	path = SH00
 	url = https://github.com/AisyahTheDataAnalyst/SH00.git
+[submodule "C01"]
+	path = C01
+	url = https://github.com/AisyahTheDataAnalyst/C01.git
+[submodule "C02"]
+	path = C02
+	url = https://github.com/AisyahTheDataAnalyst/C02.git
+[submodule "C03"]
+	path = C03
+	url = https://github.com/AisyahTheDataAnalyst/C03.git
+[submodule "C04"]
+	path = C04
+	url = https://github.com/AisyahTheDataAnalyst/C04.git
+[submodule "C06"]
+	path = C06
+	url = https://github.com/AisyahTheDataAnalyst/C06.git
+[submodule "C00"]
+	path = C00
+	url = https://github.com/AisyahTheDataAnalyst/C00.git
